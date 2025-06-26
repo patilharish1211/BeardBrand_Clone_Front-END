@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "image": "https://www.beardbrand.com/cdn/shop/files/UOBF_PUMP_1_bab1e32a-a886-44c1-9865-d1afbd9e0610_1080x.jpg?v=1709222018",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/UOTR_neon_1080x.jpg?v=1709222018",
+      "title": "UTILITY BEARD OIL",
+      "category": "MULTI-USE",
+      "price": "$39.00",
+      "ratings": "4.6/5",
+      "description": "Utility Beard Oil is our award-winning rejuvenating oil for beard, hair, face, and skin. Formulated with natural abyssinian, jojoba, castor, and babassu oils, Utility Beard Oil gives you lightweight, non-greasy hydration wherever you use it. SIZE: 4 fl oz."
+    },
+    {
+      "id": "3",
+      "image": "https://www.beardbrand.com/cdn/shop/files/UW_neon_dd230f8f-6d25-4903-b1e3-d67feaf4f286_480x.jpg?v=1700838057",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/UW_neon_dd230f8f-6d25-4903-b1e3-d67feaf4f286_1080x.jpg?v=1700838057",
+      "title": "UTILITY BEARD WASH",
+      "category": "MULTI-USE",
+      "price": "$39.00",
+      "ratings": "4.5/5",
+      "description": "All-in-one wash, redefined. Utility Wash is a versatile cleanser for beard, hair, face, and body. These suds are formulated with no harsh sulfates — just coconut-derived cleansers that are gentle enough for your beard, hair, and face, but strong enough to wash where the sun doesn’t shine. Utility Wash pairs perfectly with Utility Softener. SIZE: 14 fl oz."
+    },
+    {
+      "id": "4",
+      "image": "https://www.beardbrand.com/cdn/shop/files/USBF_PUMP_118b76d4-37a9-47de-b981-e0c06de2aa28_1080x.jpg?v=1700838641",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/BAROM_neon_1080x.jpg?v=1696689290",
+      "title": "UTILITY BEARD SOFTENER",
+      "category": "MULTI-USE",
+      "price": "$39.00",
+      "ratings": "4.6/5",
+      "description": "Life is hard; soften up. Utility Softener is a versatile beard and hair conditioner that restores hydration lost from showering, strengthens hair follicles, and helps prevent breakage. Use it daily for a softer, healthier, and easier to style beard and mane. Utility Softener pairs perfectly with Utility Wash. SIZE: 14 fl oz."
+    },
+    {
+      "id": "5",
+      "image": "https://www.beardbrand.com/cdn/shop/files/BAROM_1080x.jpg?v=1696688981",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/BAROM_neon_1080x.jpg?v=1696689290",
+      "title": "UTILITY BAR",
+      "category": "MULTI-USE",
+      "price": "$42.00",
+      "ratings": "4.4/5",
+      "description": "Made with cocoa butter, mango butter, and coconut oil, these soap pucks serve as an ultra-hydrating skin and face cleanser, a moisturizing beard wash, and a gentle hair shampoo. But that’s not all — whip it up into a foamy lather with a shave brush for the smoothest head shave of your life. Go ahead and shower like you give a puck. SIZE: Each bar is 5 oz."
+    },
+    {
+      "id": "6",
+      "image": "https://www.beardbrand.com/cdn/shop/files/SSS_neon_opt2_480x.jpg?v=1697207684",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/SSS_neon_opt2_480x.jpg?v=1697207684",
+      "title": "SEA SALT SPRAY",
+      "category": "STYLE",
+      "price": "$19.00",
+      "ratings": "4.5/5",
+      "description": "Sea Salt Spray adds waves, volume, texture, and a touch of hold to your hair and beard, giving you straight-from-the-beach style. Infused with Dead Sea salt and kaolin. Warning: a few sprays of Sea Salt Spray will have you feeling like Poseidon. SIZE: 4 fl oz."
+    },
+    {
+      "id": "7",
+      "image": "https://www.beardbrand.com/cdn/shop/files/SPOM_bcd17338-2084-439e-b43b-5985a4edfc94_1080x.jpg?v=1713620079",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/SPTR_neon_480x.jpg?v=1713906882",
+      "title": "STYLING PASTE",
+      "category": "STYLE",
+      "price": "$36.00",
+      "ratings": "4.6/5",
+      "description": "Beardbrand Styling Paste is now made with the original Beardbrand Styling Balm formula that delivers medium hold and a free-flowing, natural look for your beard and head hair. The flexible, satin finish leaves hair touchable without that hard, stiff, and crunchy feeling. SIZE: 4.2 oz."
+    },
+    {
+      "id": "8",
+      "image": "https://www.beardbrand.com/cdn/shop/files/MWOM_30189fe2-5ada-462e-b3d1-ab28aec02330_1080x.jpg?v=1699027622 ",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/MWOM_neon_480x.jpg?v=1699027622",
+      "title": "MUSTACHE WAX",
+      "category": "STYLE",
+      "price": "$12.00",
+      "ratings": "4.5/5",
+      "description": "Made with beeswax and lanolin, Beardbrand Mustache Wax provides a medium hold perfect for creating a naturally-styled mustache. It’s not a high-hold wax, so it won’t give you a stiff 'stache. But, it will give you a free-flowing mustache curl in the style of Wyatt Earp. SIZE: .25 oz."
+    },
+    {
+      "id": "9",
+      "image": "https://www.beardbrand.com/cdn/shop/files/EDPTS_37b3e80b-7610-43a8-90c9-938d14785a2f_1080x.jpg?v=1696618767",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/EDP-in-use_480x.jpg?v=1706299381",
+      "title": "EAU DE PARFUM",
+      "price": "$65.00",
+      "category": "STYLE",
+      "ratings": "4.6/5",
+      "description": "Eau de Parfum by Beardbrand. Made from naturally derived, phthalate-free ingredients, our men’s cologne is delicate enough to be paired with other products, yet aromatic enough to leave a lasting impression on those who matter most. SIZE: 1.7 fl oz."
+    },
+    {
+      "id": "10",
+      "image": "https://www.beardbrand.com/cdn/shop/files/DO2.0_teaser_1080x.jpg?v=1706301532",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/DO2.0_teaser_480x.jpg?v=1706301532",
+      "title": "DEODORANT",
+      "category": "STYLE",
+      "price": "$12.00",
+      "ratings": "4.1/5",
+      "description": "DEODORANT 2.0 IS IN THE WORKS Our original Beardbrand Deodorant has been retired. But don't sweat—we're formulating version 2.0 right now. Sign up below to be the first to know when it's available."
+    },
+    {
+      "id": "11",
+      "image": "https://www.beardbrand.com/cdn/shop/files/TS_a0c8aed9-2e45-4c60-bdf3-deda432e135b_1080x.jpg?v=1696616947",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/scissors_stones_1080x.jpg?v=1706215256",
+      "title": "TRIMMING SCISSORS",
+      "price": "$49.00",
+      "category": "COMBS, BRUSHES & TOOLS",
+      "ratings": "4.8/5",
+      "description": "Trimming Scissors that actually cut it. These Beardbrand Trimming Scissors feature Japanese-made steel blades with a hardness rating of 55–56, giving you years of precision beard, mustache, eyebrow, and sideburn trimming."
+    },
+    {
+      "id": "12",
+      "image": "https://www.beardbrand.com/cdn/shop/files/LCWR_c4435473-8e5a-48a9-8ff0-b0fbc1b3076f_1080x.jpg?v=1696620013",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/PCSS_1080x.jpg?v=1696620013",
+      "title": "BEARD COMB",
+      "price": "$21.00",
+      "category": "COMBS, BRUSHES & TOOLS",
+      "ratings": "4.8/5",
+      "description": "The smoothest beard comb on earth. Handmade from cellulose acetate — a plant-based, rubber-like material that doesn’t produce static, is durable, and won’t snag your hairs. Our combs are designed to slide through even the thickest of beards like a hot knife through butter."
+    },
+    {
+      "id": "13",
+      "image": "https://www.beardbrand.com/cdn/shop/files/OB_SIDE_1080x.jpg?v=1713563276",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/brushes_480x.jpg?v=1706299709",
+      "title": "BEARD BRUSH",
+      "category": "COMBS, BRUSHES & TOOLS",
+      "price": "$32.00",
+      "ratings": "4.7/5",
+      "description": "It takes the right tools to achieve great style, and few tools are as essential as the Beard Brush. Made with 100% boar’s hair, the stiff bristles exfoliate the skin beneath your beard, removing itchy dead skin while also distributing sebum evenly along the hair shafts — helping to keep your beard clean, healthy, and shiny."
+    },
+    {
+      "id": "14",
+      "image": "https://www.beardbrand.com/cdn/shop/files/GK_1080x.jpg?v=1696618265",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/grooming-kit_480x.jpg?v=1706292813",
+      "title": "GROOMING KIT",
+      "price": "$219.00",
+      "ratings": "4.7/5",
+      "category": "COMBS, BRUSHES & TOOLS",
+      "description": "The Beard Grooming Kit has everything you need to rock your look with confidence. Housed in a black walnut box, It includes three versatile sizes of our 100% Boar’s Hair Brushes, travel-friendly Beard Trimming Scissors, and two incredibly smooth, limited edition cellulose acetate Beard Combs"
+    },
+    {
+      "id": "15",
+      "image": "https://www.beardbrand.com/cdn/shop/files/BB_1_1080x.jpg?v=1696619550",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/grooming-kit_480x.jpg?v=1706292813",
+      "title": "BEARDSMAN'S BOX",
+      "price": "$90.00",
+      "category": "COMBS, BRUSHES & TOOLS",
+      "ratings": "4.3/5",
+      "description": "You are looking at one finely made Beardman’s Box. This black walnut beauty was designed and built specifically for Beardbrand. Go ahead, treat your grooming tools as well as they treat your beard mooth, limited edition cellulose acetate Beard Combs"
+    },
+    {
+      "id": "16",
+      "image": "https://www.beardbrand.com/cdn/shop/files/BT_BACK_1080x.jpg?v=16966198690",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/BT_FRONT_1b8fdce3-b6f1-4b17-846a-dd9110271378_480x.jpg?v=1696619869",
+      "price": "$27.00",
+      "title": "BEARDBRAND BARBERSHOP 3D TEE",
+      "category": "GEAR",
+      "ratings": "5/5",
+      "description": "Represent the best in barbering with the official Beardbrand Barbershop 3D Tee. These 6.1 oz., 100% American-made preshrunk cotton come in a natural tan color*. Each tee features a screen-printed 3D Beardbrand logo on the front and the Beardbrand Barbershop Exterior on the back. Shirts ship with 3D goggles"
+    },
+    {
+      "id": "17",
+      "image": "https://www.beardbrand.com/cdn/shop/files/FT_16cc815a-eda7-497d-9de1-bb7bc1c6be62_480x.jpg?v=1696617393",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/FT_16cc815a-eda7-497d-9de1-bb7bc1c6be62_480x.jpg?v=16966173939",
+      "price": "$25.00",
+      "title": "SHIRTS",
+      "category": "GEAR",
+      "ratings": "4.6/5",
+      "description": "Let everyone know why your beard looks awesome. Represent the best in men's grooming with Beardbrand Tees. 100% designed in-house and 100% awesome."
+    },
+    {
+      "id": "18",
+      "image": "https://www.beardbrand.com/cdn/shop/files/BOR_480x.jpg?v=1696619263",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/BOR_480x.jpg?v=1696619263",
+      "price": "$10.00",
+      "title": "BOOK OF REMINDERS",
+      "category": "GEAR",
+      "ratings": "4.9/5",
+      "description": "Authored by Beardbrand founder, Eric Bandholz, The Book Of Reminders covers Eric’s personal rules to live by. Each reminder focuses on a different lesson, with each intended to help you be more present in your everyday life and to face adversity as it arises."
+    },
+    {
+      "id": "19",
+      "image": "https://www.beardbrand.com/cdn/shop/files/AM_1080x.jpg?v=1696620596",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/products/Carlos_Eric_Greg__37_of_80_480x.jpg?v=1706297622",
+      "price": "$90.00",
+      "category": "GEAR",
+      "title": "ALLIANCE MEMBERSHIP",
+      "ratings": "5/5",
+      "description": "The Alliance is a private, online community for growth-minded individuals committed to investing in themselves and others. The Alliance isn’t just about grooming. Members of our community are dedicated to discussing everything about men’s grooming, style, and the journey of life."
+    },
+    {
+      "id": "20",
+      "image": "https://www.beardbrand.com/cdn/shop/files/FS_10854abd-0b81-4615-b3d7-d6f2601f7521_480x.jpg?v=1697048480",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/products/Carlos_Eric_Greg__37_of_80_480x.jpg?v=1706297622",
+      "price": "$10.00",
+      "title": "FRAGRANCE SAMPLES",
+      "category": "GEAR",
+      "ratings": "4.4/5",
+      "description": "We know it takes some real superpowers to smell a scent blend through your computer screen, so we've put together a Beardbrand Fragrance Sample Set. Each Fragrance Sample Set comes with a $10 credit towards your next purchase. Limit of 1 credit per customer. Fragrance Sample Sets include Old Money, Temple Smoke, and Tree Ranger Fragrances. Bold Fortune is a special-edition fragrance and samples are not available. SIZE: 2 ml each."
+    },
+    {
+      "id": "2",
+      "image": "https://www.beardbrand.com/cdn/shop/files/UBTS-open_edited_480x.jpg?v=1712264393",
+      "imagehover": "https://www.beardbrand.com/cdn/shop/files/UBTS-open_edited_480x.jpg?v=1712264393",
+      "title": "UTILITY BALM",
+      "price": "$39.00",
+      "ratings": "4.5/5",
+      "description": "Our original formula Utility Balm. A moisturizing powerhouse made with 3X more natural butters (shea, mango, cocoa) than standard beard balms. This ultra-hydrating beard balm and hair moisturizer also works miracles on dry skin, adds shine and vigor to fully healed tattoos, and so much more. SIZE: 4.2 oz."
+    }
+  ],
+  "cartpage": []
+}
